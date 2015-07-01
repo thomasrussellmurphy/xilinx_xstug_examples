@@ -1,0 +1,25 @@
+----------------------------------------------------------------------
+assign_deassign_good.v
+    Supported use of assign and deassign statements
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Verilog_Language_Support/assign_deassign/assign_deassign_good.v
+
+----------------------------------------------------------------------
+assign_deassign_reject_1.v
+    Unsupported assign and deassign statements 
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Verilog_Language_Support/assign_deassign/assign_deassign_reject_1.v
+
+----------------------------------------------------------------------
+assign_deassign_reject_2.v
+    Unsupported assign and deassign statements
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Verilog_Language_Support/assign_deassign/assign_deassign_reject_2.v
+
+----------------------------------------------------------------------
+assign_deassign_reject_3.v
+    Unsupported assign and deassign statements 
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Verilog_Language_Support/assign_deassign/assign_deassign_reject_3.v
+
+----------------------------------------------------------------------

@@ -1,0 +1,13 @@
+----------------------------------------------------------------------
+finish_ignored_1.v
+    Ignored use of $finish for simulation purposes only
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Verilog_Language_Support/system_tasks/finish_ignored_1.v
+
+----------------------------------------------------------------------
+finish_supported_1.v
+    Supported use of $finish for design rule checking
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Verilog_Language_Support/system_tasks/finish_supported_1.v
+
+----------------------------------------------------------------------

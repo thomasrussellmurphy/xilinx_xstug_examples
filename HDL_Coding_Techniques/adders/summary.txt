@@ -1,0 +1,98 @@
+----------------------------------------------------------------------
+adders_1.v
+    Unsigned 8-bit Adder
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/adders/adders_1.v
+
+----------------------------------------------------------------------
+adders_1.vhd
+    Unsigned 8-bit Adder
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/adders/adders_1.vhd
+
+----------------------------------------------------------------------
+adders_2.v
+    Unsigned 8-bit Adder with Carry In
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/adders/adders_2.v
+
+----------------------------------------------------------------------
+adders_2.vhd
+    Unsigned 8-bit Adder with Carry In
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/adders/adders_2.vhd
+
+----------------------------------------------------------------------
+adders_3.v
+    Unsigned 8-bit Adder with Carry Out
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/adders/adders_3.v
+
+----------------------------------------------------------------------
+adders_3.vhd
+    Unsigned 8-bit Adder with Carry Out
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/adders/adders_3.vhd
+
+----------------------------------------------------------------------
+adders_4.v
+    Unsigned 8-bit Adder with Carry In and Carry Out
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/adders/adders_4.v
+
+----------------------------------------------------------------------
+adders_4.vhd
+    Unsigned 8-bit Adder with Carry In and Carry Out
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/adders/adders_4.vhd
+
+----------------------------------------------------------------------
+adders_5.v
+    Signed 8-bit Adder
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/adders/adders_5.v
+
+----------------------------------------------------------------------
+adders_5.vhd
+    Signed 8-bit Adder
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/adders/adders_5.vhd
+
+----------------------------------------------------------------------
+adders_6.v
+    Unsigned 8-bit Subtractor
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/adders/adders_6.v
+
+----------------------------------------------------------------------
+adders_6.vhd
+    Unsigned 8-bit Subtractor
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/adders/adders_6.vhd
+
+----------------------------------------------------------------------
+adders_7.v
+    Unsigned 8-bit Adder/Subtractor
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/adders/adders_7.v
+
+----------------------------------------------------------------------
+adders_7.vhd
+    Unsigned 8-bit Adder/Subtractor
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/adders/adders_7.vhd
+
+----------------------------------------------------------------------
+adders_8.v
+    Unsigned 8-bit Subtractor with Borrow In
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/adders/adders_8.v
+
+----------------------------------------------------------------------
+adders_8.vhd
+    
+    Unsigned 8-bit Subtractor with Borrow In
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/adders/adders_8.vhd
+
+----------------------------------------------------------------------

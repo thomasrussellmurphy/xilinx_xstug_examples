@@ -1,0 +1,32 @@
+----------------------------------------------------------------------
+comparators_1.v
+    Unsigned 8-bit Less Than Comparator
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/comparators/comparators_1.v
+
+----------------------------------------------------------------------
+comparators_1.vhd
+    Unsigned 8-bit Greater or Equal Comparator
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/comparators/comparators_1.vhd
+
+----------------------------------------------------------------------
+comparators_linenbpb.vhd
+    Comparisons to constants
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/comparators/comparators_linenbpb.vhd
+
+----------------------------------------------------------------------
+comparetoconst_1.vhd
+    Comparisons to constants
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/comparators/comparetoconst_1.vhd
+
+----------------------------------------------------------------------
+comparetoconst_2.vhd
+    Comparisons to the maximum or minimum value that should be simplified to
+    a simple wire
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/comparators/comparetoconst_2.vhd
+
+----------------------------------------------------------------------

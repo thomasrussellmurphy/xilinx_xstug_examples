@@ -1,0 +1,100 @@
+----------------------------------------------------------------------
+register_init_1.v
+    Initialization of a 1-bit register
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/registers/register_init_1.v
+
+----------------------------------------------------------------------
+register_init_2.v
+    Initialization of a N-bit register
+    Initial value specified in binary
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/registers/register_init_2.v
+
+----------------------------------------------------------------------
+register_init_3.v
+    Initialization of a N-bit register
+    Initial value specified in hexadecimal
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/registers/register_init_3.v
+
+----------------------------------------------------------------------
+registers_1.v
+    Flip-Flop with Positive-Edge Clock
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/registers/registers_1.v
+
+----------------------------------------------------------------------
+registers_1.vhd
+    Flip-Flop with Positive-Edge Clock
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/registers/registers_1.vhd
+
+----------------------------------------------------------------------
+registers_2.v
+    Flip-Flop with Negative-Edge Clock and Asynchronous Reset
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/registers/registers_2.v
+
+----------------------------------------------------------------------
+registers_2.vhd
+    Flip-Flop with Negative-Edge Clock and Asynchronous Reset
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/registers/registers_2.vhd
+
+----------------------------------------------------------------------
+registers_3.v
+    Flip-Flop with Positive-Edge Clock and Synchronous Set
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/registers/registers_3.v
+
+----------------------------------------------------------------------
+registers_3.vhd
+    Flip-Flop with Positive-Edge Clock and Synchronous Set
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/registers/registers_3.vhd
+
+----------------------------------------------------------------------
+registers_4.v
+    Flip-Flop with Positive-Edge Clock and Clock Enable
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/registers/registers_4.v
+
+----------------------------------------------------------------------
+registers_4.vhd
+    Flip-Flop with Positive-Edge Clock and Clock Enable
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/registers/registers_4.vhd
+
+----------------------------------------------------------------------
+registers_5.v
+    4-bit Register with Positive-Edge Clock, Asynchronous Set and Clock Enable
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/registers/registers_5.v
+
+----------------------------------------------------------------------
+registers_5.vhd
+    4-bit Register with Positive-Edge Clock, Asynchronous Set and Clock Enable
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/registers/registers_5.vhd
+
+----------------------------------------------------------------------
+registers_6.v
+    4-bit Register with
+        Rising-edge Clock
+        Active-high Synchronous Reset
+        Active-high Clock Enable
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/registers/registers_6.v
+
+----------------------------------------------------------------------
+registers_6.vhd
+    Flip-Flop with
+        Rising-edge Clock
+        Active-high Synchronous Reset
+        Active-high Clock Enable
+        Initial Value
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/registers/registers_6.vhd
+
+----------------------------------------------------------------------

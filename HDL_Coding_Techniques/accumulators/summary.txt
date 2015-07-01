@@ -1,0 +1,32 @@
+----------------------------------------------------------------------
+accumulators_1.v
+    4-bit Unsigned Up Accumulator with Asynchronous Reset
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/accumulators/accumulators_1.v
+
+----------------------------------------------------------------------
+accumulators_1.vhd
+    4-bit Unsigned Up Accumulator with Asynchronous Reset
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/accumulators/accumulators_1.vhd
+
+----------------------------------------------------------------------
+accumulators_2.v
+    4-bit Unsigned Up Accumulator with Synchronous Reset
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/accumulators/accumulators_2.v
+
+----------------------------------------------------------------------
+accumulators_2.vhd
+    4-bit Unsigned Up Accumulator with synchronous Reset
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/accumulators/accumulators_2.vhd
+
+----------------------------------------------------------------------
+macexample.vhd
+    4-bit Unsigned Up Accumulator with Asynchronous Reset
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/accumulators/macexample.vhd
+    use ieee.std_logic_arith.all;
+
+----------------------------------------------------------------------

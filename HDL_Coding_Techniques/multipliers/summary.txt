@@ -1,0 +1,159 @@
+----------------------------------------------------------------------
+multipliers_1.v
+    Unsigned 8x4-bit Multiplier
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_1.v
+
+----------------------------------------------------------------------
+multipliers_1.vhd
+    Unsigned 8x4-bit Multiplier
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_1.vhd
+
+----------------------------------------------------------------------
+multipliers_11.v
+    Unsigned 32x24-bit Multiplier
+        1 latency stage on operands
+        3 latency stage after the multiplication
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_11.v
+
+----------------------------------------------------------------------
+multipliers_12.v
+    Unsigned 32x32-bit Multiplier
+        1 latency stage on operands
+        6 latency stage after the multiplication
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_12.v
+
+----------------------------------------------------------------------
+multipliers_2.v
+    Pipelined multiplier
+       The multiplication operation placed outside the
+       always block and the pipeline stages represented 
+       as single registers.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_2.v
+
+----------------------------------------------------------------------
+multipliers_2.vhd
+    Pipelined multiplier
+       The multiplication operation placed outside the
+       process block and the pipeline stages represented 
+       as single registers.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_2.vhd
+
+----------------------------------------------------------------------
+multipliers_3.v
+    Pipelined multiplier
+       The multiplication operation placed inside the
+       process block and the pipeline stages are represented 
+       as single registers.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_3.v
+
+----------------------------------------------------------------------
+multipliers_3.vhd
+    Pipelined multiplier
+       The multiplication operation placed inside the
+       process block and the pipeline stages represented 
+       as single registers.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_3.vhd
+
+----------------------------------------------------------------------
+multipliers_4.v
+    Pipelined multiplier
+       The multiplication operation placed outside the
+       always block and the pipeline stages represented 
+       as shift registers.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_4.v
+
+----------------------------------------------------------------------
+multipliers_4.vhd
+    Pipelined multiplier
+       The multiplication operation placed outside the
+       process block and the pipeline stages represented 
+       as shift registers.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_4.vhd
+
+----------------------------------------------------------------------
+multipliers_5.v
+    Multiplier Adder with 2 Register Levels on Multiplier Inputs
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_5.v
+
+----------------------------------------------------------------------
+multipliers_5.vhd
+    Multiplier Adder with 2 Register Levels on Multiplier Inputs
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_5.vhd
+
+----------------------------------------------------------------------
+multipliers_6.v
+    Multiplier Adder/Subtractor with 
+    2 Register Levels on Multiplier Inputs
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_6.v
+
+----------------------------------------------------------------------
+multipliers_6.vhd
+    Multiplier Adder/Subtractor with 
+    2 Register Levels on Multiplier Inputs
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_6.vhd
+
+----------------------------------------------------------------------
+multipliers_7a.v
+    Multiplier Up Accumulate with Register After Multiplication
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_7a.v
+
+----------------------------------------------------------------------
+multipliers_7a.vhd
+    Multiplier Up Accumulate with Register After Multiplication
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_7a.vhd
+
+----------------------------------------------------------------------
+multipliers_7b.v
+    Multiplier Up/Down Accumulate with Register After Multiplication.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_7b.v
+
+----------------------------------------------------------------------
+multipliers_7b.vhd
+    Multiplier Up/Down Accumulate with Register After Multiplication.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_7b.vhd
+
+----------------------------------------------------------------------
+multipliers_8.v
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_8.v
+
+----------------------------------------------------------------------
+multipliers_8.vhd
+    Sequential Complex Multiplier 
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_8.vhd
+
+----------------------------------------------------------------------
+multipliers_crossprobing.vhd
+    Unsigned 8x4-bit Multiplier
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multipliers_crossprobing.vhd
+
+----------------------------------------------------------------------
+multiply_accum_2.v
+    Multiplier Up Accumulate with:
+        Registered operands
+        Registered multiplication
+        Accumulation
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multipliers/multiply_accum_2.v
+
+----------------------------------------------------------------------

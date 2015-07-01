@@ -1,0 +1,19 @@
+----------------------------------------------------------------------
+functions_1.v
+    An example of a function in Verilog 
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Verilog_Language_Support/functions_tasks/functions_1.v
+
+----------------------------------------------------------------------
+functions_constant.v
+    A function that computes and returns a constant value
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Verilog_Language_Support/functions_tasks/functions_constant.v
+
+----------------------------------------------------------------------
+tasks_1.v
+    Verilog tasks 
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Verilog_Language_Support/functions_tasks/tasks_1.v
+
+----------------------------------------------------------------------

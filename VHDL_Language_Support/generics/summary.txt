@@ -1,0 +1,7 @@
+----------------------------------------------------------------------
+generics_1.vhd
+    VHDL generic parameters example
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: VHDL_Language_Support/generics/generics_1.vhd
+
+----------------------------------------------------------------------

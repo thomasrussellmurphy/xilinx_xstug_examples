@@ -1,0 +1,19 @@
+----------------------------------------------------------------------
+resource_sharing_1.v
+    Resource Sharing
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/resource_sharing/resource_sharing_1.v
+
+----------------------------------------------------------------------
+resource_sharing_1.vhd
+    Resource Sharing
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/resource_sharing/resource_sharing_1.vhd
+
+----------------------------------------------------------------------
+resource_sharing_2.vhd
+    Resource Sharing of multipliers
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/resource_sharing/resource_sharing_2.vhd
+
+----------------------------------------------------------------------

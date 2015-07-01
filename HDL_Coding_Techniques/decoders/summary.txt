@@ -1,0 +1,49 @@
+----------------------------------------------------------------------
+decoders_1.v
+    1-of-8 decoder (One-Hot)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/decoders/decoders_1.v
+
+----------------------------------------------------------------------
+decoders_1.vhd
+    1-of-16 decoder (One-Hot)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/decoders/decoders_1.vhd
+
+----------------------------------------------------------------------
+decoders_2.v
+    1-of-8 decoder (One-Cold)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/decoders/decoders_2.v
+
+----------------------------------------------------------------------
+decoders_2.vhd
+    1-of-8 decoder (One-Cold)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/decoders/decoders_2.vhd
+
+----------------------------------------------------------------------
+decoders_3.v
+    No Decoder Inference (unused decoder output)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/decoders/decoders_3.v
+
+----------------------------------------------------------------------
+decoders_3.vhd
+    No Decoder Inference (unused decoder output)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/decoders/decoders_3.vhd
+
+----------------------------------------------------------------------
+decoders_4.v
+    No Decoder Inference (some selector values are unused)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/decoders/decoders_4.v
+
+----------------------------------------------------------------------
+decoders_4.vhd
+    No Decoder Inference (some selector values are unused)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/decoders/decoders_4.vhd
+
+----------------------------------------------------------------------

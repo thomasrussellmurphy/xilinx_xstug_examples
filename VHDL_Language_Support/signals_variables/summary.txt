@@ -1,0 +1,13 @@
+----------------------------------------------------------------------
+signal_in_process.vhd
+    Signal assignment in a process
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: VHDL_Language_Support/signals_variables/signal_in_process.vhd
+
+----------------------------------------------------------------------
+variable_in_process.vhd
+    Variable and signal assignment in a process
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: VHDL_Language_Support/signals_variables/variable_in_process.vhd
+
+----------------------------------------------------------------------

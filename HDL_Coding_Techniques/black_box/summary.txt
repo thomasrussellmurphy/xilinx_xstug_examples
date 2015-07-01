@@ -1,0 +1,13 @@
+----------------------------------------------------------------------
+black_box_1.v
+    Black Box
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/black_box/black_box_1.v
+
+----------------------------------------------------------------------
+black_box_1.vhd
+    Black Box
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/black_box/black_box_1.vhd
+
+----------------------------------------------------------------------

@@ -1,0 +1,17 @@
+----------------------------------------------------------------------
+lut_map_1.v
+    Mapping of Logic to LUTs with the LUT_MAP constraint
+    Mapped to 2 distinct LUT2s
+    Mapped to 1 single LUT3 if LUT_MAP constraints are removed
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: FPGA_Optimization/lut_mapping/lut_map_1.v
+
+----------------------------------------------------------------------
+lut_map_1.vhd
+    Mapping of Logic to LUTs with the LUT_MAP constraint
+    Mapped to 2 distinct LUT2s
+    Mapped to 1 single LUT3 if LUT_MAP constraints are removed
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: FPGA_Optimization/lut_mapping/lut_map_1.vhd
+
+----------------------------------------------------------------------

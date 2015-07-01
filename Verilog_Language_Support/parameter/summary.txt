@@ -1,0 +1,15 @@
+----------------------------------------------------------------------
+parameter_1.v
+    A Verilog parameter allows to control the width of an instantitated
+    block describing register logic
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Verilog_Language_Support/parameter/parameter_1.v
+
+----------------------------------------------------------------------
+parameter_generate_for_1.v
+    A shift register description that illustrates the use of parameters and
+    generate-for constructs in Verilog
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Verilog_Language_Support/parameter/parameter_generate_for_1.v
+
+----------------------------------------------------------------------

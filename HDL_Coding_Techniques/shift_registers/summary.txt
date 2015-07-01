@@ -1,0 +1,119 @@
+----------------------------------------------------------------------
+delayline_bram_512.vhd
+    A 512-deep 8-bit delay line implemented on block RAM
+    510 stages implemented as addressable memory words
+    2 stages implemented with output latch and optional output register for
+    optimal performance
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/shift_registers/delayline_bram_512.vhd
+
+----------------------------------------------------------------------
+delayline_bram_514.vhd
+    A 514-deep 8-bit delay line implemented on block RAM
+    512 stages implemented as addressable memory words
+    2 stages implemented with output latch and optional output register for
+    optimal performance
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/shift_registers/delayline_bram_514.vhd
+
+----------------------------------------------------------------------
+delayline_lutram_128.vhd
+    A 128-deep 8-bit delay line implemented on LUT RAM
+    127 stages implemented as addressable memory words
+    Last stage implemented with an external register
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/shift_registers/delayline_lutram_128.vhd
+
+----------------------------------------------------------------------
+shift_registers_0.v
+    8-bit Shift Register
+        Rising edge clock
+        Active high clock enable
+        Concatenation-based template
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/shift_registers/shift_registers_0.v
+
+----------------------------------------------------------------------
+shift_registers_0.vhd
+    32-bit Shift Register
+        Rising edge clock
+        Active high clock enable
+        Concatenation-based template
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/shift_registers/shift_registers_0.vhd
+
+----------------------------------------------------------------------
+shift_registers_1.v
+    8-bit Shift Register
+        Rising edge clock
+        Active high clock enable
+        Explicit enumeration template
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/shift_registers/shift_registers_1.v
+
+----------------------------------------------------------------------
+shift_registers_1.vhd
+    32-bit Shift Register
+        Rising edge clock
+        Active high clock enable
+        foor loop-based template
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/shift_registers/shift_registers_1.vhd
+
+----------------------------------------------------------------------
+shift_registers_2.v
+    8-bit Shift-Left Register with Negative-Edge Clock, Clock Enable, 
+    Serial In, and Serial Out
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/shift_registers/shift_registers_2.v
+
+----------------------------------------------------------------------
+shift_registers_2.vhd
+    8-bit Shift-Left Register with Negative-Edge Clock, Clock Enable, 
+    Serial In, and Serial Out
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/shift_registers/shift_registers_2.vhd
+
+----------------------------------------------------------------------
+shift_registers_3.v
+    8-bit Shift-Left Register with Positive-Edge Clock, 
+    Asynchronous Reset, Serial In, and Serial Out
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/shift_registers/shift_registers_3.v
+
+----------------------------------------------------------------------
+shift_registers_3.vhd
+    8-bit Shift-Left Register with Positive-Edge Clock, 
+    Asynchronous Reset,Serial In, and Serial Out
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/shift_registers/shift_registers_3.vhd
+
+----------------------------------------------------------------------
+shift_registers_4.v
+    8-bit Shift-Left Register with Positive-Edge Clock, Synchronous Set, 
+    Serial In, and Serial Out
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/shift_registers/shift_registers_4.v
+
+----------------------------------------------------------------------
+shift_registers_4.vhd
+    8-bit Shift-Left Register with Positive-Edge Clock, Synchronous Set, 
+    Serial In, and Serial Out
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/shift_registers/shift_registers_4.vhd
+
+----------------------------------------------------------------------
+shift_registers_5.v
+    8-bit Shift-Left Register with Positive-Edge Clock, 
+    Serial In, and Parallel Out
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/shift_registers/shift_registers_5.v
+
+----------------------------------------------------------------------
+shift_registers_5.vhd
+    8-bit Shift-Left Register with Positive-Edge Clock, 
+    Serial In, and Parallel Out
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/shift_registers/shift_registers_5.vhd
+
+----------------------------------------------------------------------

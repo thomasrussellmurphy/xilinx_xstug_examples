@@ -1,0 +1,20 @@
+----------------------------------------------------------------------
+fileread_endfile.vhd
+    Initializing Block RAM from external data file using enfile
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: VHDL_Language_Support/file_type_support/fileread_endfile.vhd
+
+----------------------------------------------------------------------
+filewrite_explicitopen.vhd
+    Writing to a file
+    Explicit open/close with the VHDL'93 FILE_OPEN and FILE_CLOSE procedures
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: VHDL_Language_Support/file_type_support/filewrite_explicitopen.vhd
+
+----------------------------------------------------------------------
+filewrite_implicitopen.vhd
+    Writing to a file. Implicit open/close
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: VHDL_Language_Support/file_type_support/filewrite_implicitopen.vhd
+
+----------------------------------------------------------------------

@@ -1,0 +1,36 @@
+----------------------------------------------------------------------
+primitive_1.v
+    Instantiating a LUT2 primitive
+    The INIT value is specified with an attribute, which is rejected by XST
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: FPGA_Optimization/primitive_support/primitive_1.v
+
+----------------------------------------------------------------------
+primitive_1.vhd
+    Instantiating a LUT2 primitive
+    The INIT value is specified with an attribute, which is rejected by XST
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: FPGA_Optimization/primitive_support/primitive_1.vhd
+
+----------------------------------------------------------------------
+primitive_2.v
+    Instantiating a LUT2 primitive
+    Configured via the parameter mechanism
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: FPGA_Optimization/primitive_support/primitive_2.v
+
+----------------------------------------------------------------------
+primitive_2.vhd
+    Instantiating a LUT2 primitive
+    Configured via the generics mechanism (recommended)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: FPGA_Optimization/primitive_support/primitive_2.vhd
+
+----------------------------------------------------------------------
+primitive_3.v
+    Instantiating a LUT2 primitive
+    Configured via the defparam mechanism
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: FPGA_Optimization/primitive_support/primitive_3.v
+
+----------------------------------------------------------------------

@@ -1,0 +1,37 @@
+----------------------------------------------------------------------
+boolean.vhd
+    Naming of boolean type objects
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Naming_Conventions/boolean.vhd
+
+----------------------------------------------------------------------
+if_generate_label.v
+    A primitive instantiation in a labelled if-generate
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Naming_Conventions/if_generate_label.v
+
+----------------------------------------------------------------------
+if_generate_nolabel.v
+    A primitive instantiation in a if-generate without label
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Naming_Conventions/if_generate_nolabel.v
+
+----------------------------------------------------------------------
+reg_in_function.v
+    A reg in a function
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Naming_Conventions/reg_in_function.v
+
+----------------------------------------------------------------------
+reg_in_labelled_always.v
+    A reg in a labelled always block
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Naming_Conventions/reg_in_labelled_always.v
+
+----------------------------------------------------------------------
+var_in_labelled_process.vhd
+    A variable in a named process
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Naming_Conventions/var_in_labelled_process.vhd
+
+----------------------------------------------------------------------

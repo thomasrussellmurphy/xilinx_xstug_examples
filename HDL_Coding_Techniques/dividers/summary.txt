@@ -1,0 +1,19 @@
+----------------------------------------------------------------------
+dividers_1.v
+    Division By Constant 2
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/dividers/dividers_1.v
+
+----------------------------------------------------------------------
+dividers_1.vhd
+    Division By Constant 2
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/dividers/dividers_1.vhd
+
+----------------------------------------------------------------------
+dividers_2.v
+    A constant divided by another. None is a power of 2.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/dividers/dividers_2.v
+
+----------------------------------------------------------------------

@@ -1,0 +1,9 @@
+----------------------------------------------------------------------
+initial_1.vhd
+    Register initialization
+      Specifying initial contents at circuit powes-up
+      Specifying an operational set/reset
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: VHDL_Language_Support/initial/initial_1.vhd
+
+----------------------------------------------------------------------

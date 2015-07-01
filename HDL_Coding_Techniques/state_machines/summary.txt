@@ -1,0 +1,37 @@
+----------------------------------------------------------------------
+state_machines_1.v
+    State Machine with a single always block.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/state_machines/state_machines_1.v
+
+----------------------------------------------------------------------
+state_machines_1.vhd
+    State Machine described with a single process
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/state_machines/state_machines_1.vhd
+
+----------------------------------------------------------------------
+state_machines_2.v
+    State Machine with two always blocks.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/state_machines/state_machines_2.v
+
+----------------------------------------------------------------------
+state_machines_2.vhd
+    State Machine described with two processes
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/state_machines/state_machines_2.vhd
+
+----------------------------------------------------------------------
+state_machines_3.v
+    State Machine with three always blocks.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/state_machines/state_machines_3.v
+
+----------------------------------------------------------------------
+state_machines_3.vhd
+    State Machine with three processes.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/state_machines/state_machines_3.vhd
+
+----------------------------------------------------------------------

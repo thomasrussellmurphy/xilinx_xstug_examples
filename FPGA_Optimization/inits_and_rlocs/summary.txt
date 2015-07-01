@@ -1,0 +1,27 @@
+----------------------------------------------------------------------
+inits_rlocs_2.v
+    Specification on an INIT value for a flip-flop, 
+    described at RTL level
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: FPGA_Optimization/inits_and_rlocs/inits_rlocs_2.v
+
+----------------------------------------------------------------------
+inits_rlocs_2.vhd
+    Specification on an INIT value for a flip-flop, described at RTL level
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: FPGA_Optimization/inits_and_rlocs/inits_rlocs_2.vhd
+
+----------------------------------------------------------------------
+inits_rlocs_3.v
+    Specification on an INIT and RLOC values for a flip-flop, 
+    described at RTL level
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: FPGA_Optimization/inits_and_rlocs/inits_rlocs_3.v
+
+----------------------------------------------------------------------
+inits_rlocs_3.vhd
+    Specification of INIT and RLOC values for a flip-flop, described at RTL level
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: FPGA_Optimization/inits_and_rlocs/inits_rlocs_3.vhd
+
+----------------------------------------------------------------------

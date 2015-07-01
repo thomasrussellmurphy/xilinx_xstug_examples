@@ -1,0 +1,43 @@
+----------------------------------------------------------------------
+logical_shifters_1.v
+    Following is the Verilog code for a logical shifter.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/logical_shifters/logical_shifters_1.v
+
+----------------------------------------------------------------------
+logical_shifters_1.vhd
+    Following is the VHDL code for a logical shifter.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/logical_shifters/logical_shifters_1.vhd
+
+----------------------------------------------------------------------
+logical_shifters_2.v
+    XST does not infer a logical shifter for this example, 
+    as not all of the selector values are presented.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/logical_shifters/logical_shifters_2.v
+
+----------------------------------------------------------------------
+logical_shifters_2.vhd
+    XST does not infer a logical shifter for this example, 
+     as not all of the selector values are presented.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/logical_shifters/logical_shifters_2.vhd
+
+----------------------------------------------------------------------
+logical_shifters_3.v
+    XST does not infer a logical shifter for this example, 
+    as the value is not incremented by 1 for each consequent 
+    binary value of the selector.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/logical_shifters/logical_shifters_3.v
+
+----------------------------------------------------------------------
+logical_shifters_3.vhd
+    XST does not infer a logical shifter for this example, 
+    as the value is not incremented by 1 for each consequent 
+    binary value of the selector.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/logical_shifters/logical_shifters_3.vhd
+
+----------------------------------------------------------------------

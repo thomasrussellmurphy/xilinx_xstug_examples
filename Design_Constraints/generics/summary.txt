@@ -1,0 +1,22 @@
+----------------------------------------------------------------------
+reginitgeneric_1.vhd
+    
+    Initial contents of a register is defined through a binary or
+    hexadecimal generic
+    May be overriden from the XST run command line with:
+      -generics { INITVAL=b10101100 }
+      -generics { INITVAL=hD9 }
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Design_Constraints/generics/reginitgeneric_1.vhd
+
+----------------------------------------------------------------------
+reginitgeneric_2.vhd
+    
+    Initial contents of a register is defined through an integer generic
+    May be overriden from the XST run command line with:
+      -generics { INITVAL=47 }
+      -generics { INITVAL=d63 }
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Design_Constraints/generics/reginitgeneric_2.vhd
+
+----------------------------------------------------------------------

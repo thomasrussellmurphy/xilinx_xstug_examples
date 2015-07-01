@@ -1,0 +1,13 @@
+----------------------------------------------------------------------
+priority_encoders_1.v
+    3-Bit 1-of-9 Priority Encoder
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/priority_encoders/priority_encoders_1.v
+
+----------------------------------------------------------------------
+priority_encoders_1.vhd
+    3-Bit 1-of-9 Priority Encoder
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/priority_encoders/priority_encoders_1.vhd
+
+----------------------------------------------------------------------

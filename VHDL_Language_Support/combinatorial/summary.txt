@@ -1,0 +1,31 @@
+----------------------------------------------------------------------
+concurrent_conditional_assignment.vhd
+    A concurrent conditional assignment (when-else)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: VHDL_Language_Support/combinatorial/concurrent_conditional_assignment.vhd
+
+----------------------------------------------------------------------
+concurrent_selected_assignment.vhd
+    Concurrent selection assignment in VHDL
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: VHDL_Language_Support/combinatorial/concurrent_selected_assignment.vhd
+
+----------------------------------------------------------------------
+for_generate.vhd
+    A for-generate example
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: VHDL_Language_Support/combinatorial/for_generate.vhd
+
+----------------------------------------------------------------------
+for_loop.vhd
+    For-loop example
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: VHDL_Language_Support/combinatorial/for_loop.vhd
+
+----------------------------------------------------------------------
+if_for_generate.vhd
+    A for-generate nested in a if-generate
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: VHDL_Language_Support/combinatorial/if_for_generate.vhd
+
+----------------------------------------------------------------------

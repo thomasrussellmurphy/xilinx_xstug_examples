@@ -1,0 +1,7 @@
+----------------------------------------------------------------------
+vlgattrib2001_1.v
+    Verilog 2001 attribute examples
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Verilog_Language_Support/attributes/vlgattrib2001_1.v
+
+----------------------------------------------------------------------

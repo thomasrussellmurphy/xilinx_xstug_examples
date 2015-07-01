@@ -1,0 +1,7 @@
+----------------------------------------------------------------------
+asserts_1.vhd
+    Use of an assert statement for design rule checking
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: VHDL_Language_Support/asserts/asserts_1.vhd
+
+----------------------------------------------------------------------

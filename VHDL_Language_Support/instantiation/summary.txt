@@ -1,0 +1,21 @@
+----------------------------------------------------------------------
+instantiation_config_for_all.vhd
+    Component instantiation through basic configuration
+      For all clause
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: VHDL_Language_Support/instantiation/instantiation_config_for_all.vhd
+
+----------------------------------------------------------------------
+instantiation_recursive.vhd
+    Recursive component instantiation
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: VHDL_Language_Support/instantiation/instantiation_recursive.vhd
+
+----------------------------------------------------------------------
+instantiation_simple.vhd
+    A simple component instantiation example
+      Involves a component declaration and the component instantiation itself
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: VHDL_Language_Support/instantiation/instantiation_simple.vhd
+
+----------------------------------------------------------------------

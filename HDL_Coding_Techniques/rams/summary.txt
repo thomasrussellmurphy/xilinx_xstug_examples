@@ -1,0 +1,726 @@
+----------------------------------------------------------------------
+asymmetric_ram_1a.v
+    Asymmetric port RAM
+      Port A is 256x8-bit write-only
+      Port B is 64x32-bit read-only
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/asymmetric_ram_1a.v
+
+----------------------------------------------------------------------
+asymmetric_ram_1a.vhd
+    Asymmetric port RAM
+      Port A is 256x8-bit write-only
+      Port B is 64x32-bit read-only
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/asymmetric_ram_1a.vhd
+
+----------------------------------------------------------------------
+asymmetric_ram_1b.v
+    Asymmetric port RAM
+      Port A is 256x8-bit write-only
+      Port B is 64x32-bit read-only
+      Compact description with a generate-for statement
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/v_asymmetric_ram_1b.v
+
+----------------------------------------------------------------------
+asymmetric_ram_1b.vhd
+    Asymmetric port RAM
+      Port A is 256x8-bit write-only
+      Port B is 64x32-bit read-only
+      Compact description with a for-loop statement
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/asymmetric_ram_1b.vhd
+
+----------------------------------------------------------------------
+asymmetric_ram_2a.vhd
+    Asymmetric port RAM
+      Port A is 256x8-bit read-and-write (write-first synchronization)
+      Port B is 64x32-bit read-and-write (write-first synchronization)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/asymmetric_ram_2a.vhd
+
+----------------------------------------------------------------------
+asymmetric_ram_2b.vhd
+    Asymmetric port RAM
+      Port A is 256x8-bit read-and-write (write-first synchronization)
+      Port B is 64x32-bit read-and-write (write-first synchronization)
+      Compact description with a for-loop statement
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/asymmetric_ram_2b.vhd
+
+----------------------------------------------------------------------
+asymmetric_ram_2c.v
+    Asymmetric port RAM
+      Port A is 256x8-bit read-and-write (read-first synchronization)
+      Port B is 64x32-bit read-and-write (read-first synchronization)
+      Compact description with a for-loop statement
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/asymmetric_ram_2c.v
+
+----------------------------------------------------------------------
+asymmetric_ram_2c.vhd
+    Asymmetric port RAM
+      Port A is 256x8-bit read-and-write (read-first synchronization)
+      Port B is 64x32-bit read-and-write (read-first synchronization)
+      Compact description with a for-loop statement
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/asymmetric_ram_2c.vhd
+
+----------------------------------------------------------------------
+asymmetric_ram_2d.v
+    Asymmetric port RAM
+      Port A is 256x8-bit read-and-write (no-change synchronization)
+      Port B is 64x32-bit read-and-write (no-change synchronization)
+      Compact description with a for-loop statement
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/asymmetric_ram_2d.v
+
+----------------------------------------------------------------------
+asymmetric_ram_2d.vhd
+    Asymmetric port RAM
+      Port A is 256x8-bit read-and-write (no-change synchronization)
+      Port B is 64x32-bit read-and-write (no-change synchronization)
+      Compact description with a for-loop statement
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/asymmetric_ram_2d.vhd
+
+----------------------------------------------------------------------
+asymmetric_ram_3.v
+    Asymmetric port RAM
+      Port A is 2048x18-bit write-only
+      Port B is 4096x9-bit read-only
+      XST uses parity bits to accomodate data widths
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/asymmetric_ram_3.v
+
+----------------------------------------------------------------------
+asymmetric_ram_3.vhd
+    Asymmetric port RAM
+      Port A is 2048x18-bit write-only
+      Port B is 4096x9-bit read-only
+      XST uses parity bits to accomodate data widths
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/asymmetric_ram_3.vhd
+
+----------------------------------------------------------------------
+asymmetric_ram_4.v
+    Asymmetric port RAM
+      Port A is 256x8-bit read-only
+      Port B is 64x32-bit write-only
+      Compact description with a generate-for statement
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/asymmetric_ram_4.v
+
+----------------------------------------------------------------------
+asymmetric_ram_4.vhd
+    Asymmetric port RAM
+      Port A is 256x8-bit read-only
+      Port B is 64x32-bit write-only
+      Compact description with a for-loop statement
+      A shared variable is necessary because of the multiple write assignments
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/asymmetric_ram_4.vhd
+
+----------------------------------------------------------------------
+asymmetric_readfirst_2.vhd
+    Asymmetric port RAM
+      Port A is 256x8-bit read-and-write (read-first synchronization)
+      Port B is 64x32-bit read-and-write (read-first synchronization)
+      Compact description with a for-loop statement
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/asymmetric_readfirst_2.vhd
+
+----------------------------------------------------------------------
+asymmetric_write_first_1.v
+    Asymmetric port RAM
+      Port A is 256x8-bit read-and-write (write-first synchronization)
+      Port B is 64x32-bit read-and-write (write-first synchronization)
+      Compact description with a for-loop statement
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/asymmetric_write_first_1.v
+
+----------------------------------------------------------------------
+asymmetric_write_first_2.v
+    Asymmetric port RAM
+      Port A is 256x8-bit read-and-write (write-first synchronization)
+      Port B is 64x32-bit read-and-write (write-first synchronization)
+      Compact description with a for-loop statement
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/asymmetric_write_first_2.v
+
+----------------------------------------------------------------------
+asymmetric_write_first_3.v
+    Asymmetric port RAM
+      Port A is 256x8-bit read-and-write (write-first synchronization)
+      Port B is 64x32-bit read-and-write (write-first synchronization)
+      Compact description with a for-loop statement
+      Write-first implemented using the blocking statement mechanism
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/asymmetric_write_first_2.v
+
+----------------------------------------------------------------------
+bytewrite_nochange.v
+    Single-Port BRAM with Byte-wide Write Enable
+      4x9-bit write
+      No-Change mode
+      Single-process description
+      Compact description of the write with a generate-for statement
+      Column width and number of columns easily configurable 
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/bytewrite_nochange.v
+
+----------------------------------------------------------------------
+bytewrite_nochange.vhd
+    Single-Port BRAM with Byte-wide Write Enable
+      2x8-bit write
+      No-Change mode
+      Single-process description
+      Compact description of the write with a for-loop statement
+      Column width and number of columns easily configurable 
+    
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/bytewrite_nochange.vhd
+
+----------------------------------------------------------------------
+bytewrite_ram_1a.v
+    Single-Port BRAM with Byte-wide Write Enable
+      4x9-bit write
+      Read-First mode
+      Single-process description
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/bytewrite_ram_1a.v
+
+----------------------------------------------------------------------
+bytewrite_ram_1a.vhd
+    Single-Port BRAM with Byte-wide Write Enable
+      2x8-bit write
+      Read-First Mode
+      Single-process description
+      Explicit enumaration of each write column
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/bytewrite_ram_1a.vhd
+
+----------------------------------------------------------------------
+bytewrite_ram_1b.v
+    Single-Port BRAM with Byte-wide Write Enable
+      4x9-bit write
+      Read-First mode
+      Single-process description
+      Compact description of the write with a generate-for statement
+      Column width and number of columns easily configurable 
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/bytewrite_ram_1b.v
+
+----------------------------------------------------------------------
+bytewrite_ram_1b.vhd
+    Single-Port BRAM with Byte-wide Write Enable
+      2x8-bit write
+      Read-First mode
+      Single-process description
+      Compact description of the write with a for-loop statement
+      Column width and number of columns easily configurable 
+    
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/bytewrite_ram_1b.vhd
+
+----------------------------------------------------------------------
+bytewrite_writefirst.v
+    Single-Port BRAM with Byte-wide Write Enable
+      4x9-bit write
+      Write-First mode
+      Single-process description
+      Compact description of the write with a generate-for statement
+      Column width and number of columns easily configurable 
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/bytewrite_writefirst.v
+
+----------------------------------------------------------------------
+bytewrite_writefirst.vhd
+    Single-Port BRAM with Byte-wide Write Enable
+      4x8-bit write
+      Write-First mode
+      Single-process description
+      Compact description of the write with a for-loop statement
+      Column width and number of columns easily configurable 
+    
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/bytewrite_writefirst.vhd
+
+----------------------------------------------------------------------
+bytewrite_writefirst_test2.v
+    Single-Port BRAM with Byte-wide Write Enable
+      4x9-bit write
+      Write-First mode
+      Single-process description
+      Compact description of the write with a generate-for statement
+      Column width and number of columns easily configurable 
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/bytewrite_writefirst.v
+
+----------------------------------------------------------------------
+ram_protected_sharedvar.vhd
+    Dual-Port Block RAM with Two Write Ports
+    Modelization with a protected shared variable
+    Simulates without warning in VHDL-2002 simulators
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/ram_protected_sharedvar.vhd
+
+----------------------------------------------------------------------
+raminit_02.v
+    RAM initialization with and initial block and a for loop in Verilog
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/raminit_02.v
+
+----------------------------------------------------------------------
+raminit_02.vhd
+    RAM initial contents described in the VHDL source code
+    All addressable words initialized to same value
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/raminit_02.vhd
+
+----------------------------------------------------------------------
+raminit_03.vhd
+    RAM initial contents described in the VHDL source code
+    All addressable words but address 0 and 1 initialized to same value
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/raminit_03.vhd
+
+----------------------------------------------------------------------
+raminit_04.vhd
+    RAM initial contents described in the VHDL source code
+    All bit positions initialized to same value
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/raminit_04.vhd
+
+----------------------------------------------------------------------
+rams_01.v
+    Single-Port BRAM Read-First Mode
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_01.v
+
+----------------------------------------------------------------------
+rams_01.vhd
+    Single-Port BRAM Read-First Mode
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_01.vhd
+
+----------------------------------------------------------------------
+rams_02a.v
+    Single-Port BRAM Write-First Mode (recommended template)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_02a.v
+
+----------------------------------------------------------------------
+rams_02a.vhd
+    Single-Port BRAM Write-First Mode (recommended template)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_02a.vhd
+
+----------------------------------------------------------------------
+rams_02b.v
+    Single-Port BRAM Write-First Mode (registered read address template)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_02b.v
+
+----------------------------------------------------------------------
+rams_02b.vhd
+    Single-Port BRAM Write-First Mode (registered read address template)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_02b.vhd
+
+----------------------------------------------------------------------
+rams_03.v
+    Single-Port BRAM No-Change Mode
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_03.v
+
+----------------------------------------------------------------------
+rams_03.vhd
+    Single-Port BRAM No-Change Mode
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_03.vhd
+
+----------------------------------------------------------------------
+rams_04.v
+    Single-Port RAM with Asynchronous Read (Distributed RAM)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_04.v
+
+----------------------------------------------------------------------
+rams_04.vhd
+    Single-Port RAM with Asynchronous Read (Distributed RAM)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_04.vhd
+
+----------------------------------------------------------------------
+rams_05.v
+    Single-Port RAM with "False" Synchronous Read
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_05.v
+
+----------------------------------------------------------------------
+rams_05.vhd
+    Single-Port RAM with "False" Synchronous Read
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_05.vhd
+
+----------------------------------------------------------------------
+rams_06.v
+    Single-Port RAM with "False" Synchronous Read with
+    an additional reset of the RAM output,
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_06.v
+
+----------------------------------------------------------------------
+rams_06.vhd
+    Single-Port RAM with "False" Synchronous Read with
+    an additional reset of the RAM output,
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_06.vhd
+
+----------------------------------------------------------------------
+rams_07.v
+    Single-Port RAM with Synchronous Read (Read Through)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_07.v
+
+----------------------------------------------------------------------
+rams_07.vhd
+    Single-Port RAM with Synchronous Read (Read Through)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_07.vhd
+
+----------------------------------------------------------------------
+rams_08.v
+    Single-Port RAM with Enable
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_08.v
+
+----------------------------------------------------------------------
+rams_08.vhd
+    Single-Port RAM with Enable
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_08.vhd
+
+----------------------------------------------------------------------
+rams_09.v
+    Dual-Port RAM with Asynchronous Read (Distributed RAM)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_09.v
+
+----------------------------------------------------------------------
+rams_09.vhd
+    Dual-Port RAM with Asynchronous Read (Distributed RAM)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_09.vhd
+
+----------------------------------------------------------------------
+rams_10.v
+    Dual-Port RAM with False Synchronous Read
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_10.v
+
+----------------------------------------------------------------------
+rams_10.vhd
+    Dual-Port RAM with False Synchronous Read
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_10.vhd
+
+----------------------------------------------------------------------
+rams_11.v
+    Dual-Port BRAM Write-First Mode (registered read address template)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_11.v
+
+----------------------------------------------------------------------
+rams_11.vhd
+    Dual-Port BRAM Write-First Mode (registered read address template)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_11.vhd
+
+----------------------------------------------------------------------
+rams_12.v
+    Dual-Port BRAM Write-First (registered read address template)
+    Distinct Clocks
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_12.v
+
+----------------------------------------------------------------------
+rams_12.vhd
+    Dual-Port BRAM Write-First (registered read address template)
+    Distinct Clocks
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_12.vhd
+
+----------------------------------------------------------------------
+rams_13.v
+    Dual-Port RAM with One Enable Controlling Both Ports
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_13.v
+
+----------------------------------------------------------------------
+rams_13.vhd
+    Dual-Port RAM with One Enable Controlling Both Ports
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_13.vhd
+
+----------------------------------------------------------------------
+rams_14.v
+    Dual-Port RAM with Enable on Each Port
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_14.v
+
+----------------------------------------------------------------------
+rams_14.vhd
+    Dual-Port RAM with Enable on Each Port
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_14.vhd
+
+----------------------------------------------------------------------
+rams_15.v
+    Dual-Port Block RAM with Different Clocks
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_15.v
+
+----------------------------------------------------------------------
+rams_15.vhd
+    Dual-Port Block RAM with Different Clocks
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_15.vhd
+
+----------------------------------------------------------------------
+rams_16.v
+    Dual-Port Block RAM with Two Write Ports
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_16.v
+
+----------------------------------------------------------------------
+rams_16a.vhd
+    Dual-Port Block RAM with Two Write Ports
+    Incorrect Modelization with a Signal
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_16a.vhd
+
+----------------------------------------------------------------------
+rams_16b.vhd
+    Dual-Port Block RAM with Two Write Ports
+    Correct Modelization with a Shared Variable
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_16b.vhd
+
+----------------------------------------------------------------------
+rams_17.v
+    Multiple-Port RAM Descriptions
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_17.v
+
+----------------------------------------------------------------------
+rams_17.vhd
+    Multiple-Port RAM Descriptions
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_17.vhd
+
+----------------------------------------------------------------------
+rams_18.v
+    Block RAM with Resettable Data Output
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_18.v
+
+----------------------------------------------------------------------
+rams_18.vhd
+    Block RAM with Resettable Data Output
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_18.vhd
+
+----------------------------------------------------------------------
+rams_19.v
+    Block RAM with Optional Output Registers
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_19.v
+
+----------------------------------------------------------------------
+rams_19.vhd
+    Block RAM with Optional Output Registers
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_19.vhd
+
+----------------------------------------------------------------------
+rams_20a.v
+    Initializing Block RAM (Single-Port BRAM)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_20a.v
+
+----------------------------------------------------------------------
+rams_20a.vhd
+    Initializing Block RAM (Single-Port BRAM)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_20a.vhd
+
+----------------------------------------------------------------------
+rams_20b.v
+    RAM initial contents described in the Verilog source code
+    Specific address positions or ranges initialized to particular values
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_20b.v
+
+----------------------------------------------------------------------
+rams_20b.vhd
+    RAM initial contents described in the VHDL source code
+    Specific address positions or ranges initialized to particular values
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_20b.vhd
+
+----------------------------------------------------------------------
+rams_20c.v
+    Initializing Block RAM from external data file
+    Binary data
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_20c.v
+
+----------------------------------------------------------------------
+rams_20c.vhd
+    Initializing Block RAM from external data file
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_2oc.vhd
+
+----------------------------------------------------------------------
+rams_20d.v
+    Initializing Block RAM from an external data file
+    Hexadecimal data
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_20d.v
+
+----------------------------------------------------------------------
+rams_21a.v
+    ROMs Using Block RAM Resources.
+    Verilog code for a ROM with registered output (template 1)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_21a.v
+
+----------------------------------------------------------------------
+rams_21a.vhd
+    ROMs Using Block RAM Resources.
+    VHDL code for a ROM with registered output (template 1)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_21a.vhd
+
+----------------------------------------------------------------------
+rams_21b.v
+    ROMs Using Block RAM Resources.
+    Verilog code for a ROM with registered output (template 2)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_21b.v
+
+----------------------------------------------------------------------
+rams_21b.vhd
+    ROMs Using Block RAM Resources.
+    VHDL code for a ROM with registered output (template 2)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_21b.vhd
+
+----------------------------------------------------------------------
+rams_21c.v
+    ROMs Using Block RAM Resources.
+    Verilog code for a ROM with registered address
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_21c.v
+
+----------------------------------------------------------------------
+rams_21c.vhd
+    ROMs Using Block RAM Resources.
+    VHDL code for a ROM with registered address
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_21c.vhd
+
+----------------------------------------------------------------------
+rams_22.v
+    Pipeline distributed RAM
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_22.v
+
+----------------------------------------------------------------------
+rams_22.vhd
+    Pipeline distributed RAM
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_22.vhd
+
+----------------------------------------------------------------------
+rams_23.v
+    Quad-Port Distibuted RAM
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_23.v
+
+----------------------------------------------------------------------
+rams_23.vhd
+    Quad-Port Distibuted RAM
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_23.vhd
+
+----------------------------------------------------------------------
+rams_24.v
+    Single-Port BRAM with Byte-wide Write Enable (2 bytes) in Read-First Mode
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_24.v
+
+----------------------------------------------------------------------
+rams_24.vhd
+    Single-Port BRAM with Byte-wide Write Enable
+      2x8-bit write
+      Read-First Mode
+      Two-process description
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_24.vhd
+
+----------------------------------------------------------------------
+rams_25.v
+    Single-Port BRAM with Byte-wide Write Enable (2 bytes) in Write-First Mode
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_25.v
+
+----------------------------------------------------------------------
+rams_25.vhd
+    Single-Port BRAM with Byte-wide Write Enable (2 bytes) in Write-First Mode
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_25.vhd
+
+----------------------------------------------------------------------
+rams_27.vhd
+    Simple dual-port block RAM
+        1 write-only port
+        1 read-only port
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rams_27.vhd
+
+----------------------------------------------------------------------
+rom_case.v
+    ROM modelling with a Verilog case statement
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rom_case.v
+
+----------------------------------------------------------------------
+rom_initial.v
+    ROM modelling with a Verilog array and initial block
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/rom_initial.v
+
+----------------------------------------------------------------------
+roms_constant.vhd
+    Description of a ROM with a VHDL constant
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/roms_constant.vhd
+
+----------------------------------------------------------------------
+roms_dualport.vhd
+    A dual-port ROM
+    Implementation on LUT or BRAM controlled with a ram_style constraint
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/roms_dualport.vhd
+
+----------------------------------------------------------------------
+roms_signal.vhd
+    Description of a ROM with a VHDL signal
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/rams/roms_signal.vhd
+
+----------------------------------------------------------------------

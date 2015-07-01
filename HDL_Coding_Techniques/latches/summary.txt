@@ -1,0 +1,55 @@
+----------------------------------------------------------------------
+latches_0.vhd
+    Latch with Positive Gate
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/latches/latches_0.vhd
+
+----------------------------------------------------------------------
+latches_1.v
+    Latch with Positive Gate
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/latches/latches_1.v
+
+----------------------------------------------------------------------
+latches_1.vhd
+    Latch with Positive Gate
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/latches/latches_1.vhd
+
+----------------------------------------------------------------------
+latches_2.v
+    Latch with Positive Gate and Asynchronous Reset
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/latches/latches_2.v
+
+----------------------------------------------------------------------
+latches_2.vhd
+    Latch with Positive Gate and Asynchronous Reset
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/latches/latches_2.vhd
+
+----------------------------------------------------------------------
+latches_3.v
+    4-bit Latch with Inverted Gate and Asynchronous Set
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/latches/latches_3.v
+
+----------------------------------------------------------------------
+latches_3.vhd
+    4-bit Latch with Inverted Gate and Asynchronous Set
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/latches/latches_3.vhd
+
+----------------------------------------------------------------------
+latches_4.v
+    4-bit latch with active-high gate
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/latches/latches_4.v
+
+----------------------------------------------------------------------
+latches_cp.vhd
+    Latch with Positive Gate and Asynchronous Reset
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/latches/latches_cp.vhd
+
+----------------------------------------------------------------------

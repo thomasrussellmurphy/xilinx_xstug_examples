@@ -1,0 +1,49 @@
+----------------------------------------------------------------------
+multiplexers_1.v
+    8-to-1 1-bit MUX using an If statement.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multiplexers/multiplexers_1.v
+
+----------------------------------------------------------------------
+multiplexers_1.vhd
+    8-to-1 1-bit MUX using an If statement.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multiplexers/multiplexers_1.vhd
+
+----------------------------------------------------------------------
+multiplexers_2.v
+    8-to-1 1-bit MUX using a Case statement.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multiplexers/multiplexers_2.v
+
+----------------------------------------------------------------------
+multiplexers_2.vhd
+    8-to-1 1-bit MUX using a Case statement.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multiplexers/multiplexers_2.vhd
+
+----------------------------------------------------------------------
+multiplexers_3.v
+    8-to-1 1-bit MUX using tristate buffers.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multiplexers/multiplexers_3.v
+
+----------------------------------------------------------------------
+multiplexers_3.vhd
+    8-to-1 1-bit MUX using tristate buffers.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multiplexers/multiplexers_3.vhd
+
+----------------------------------------------------------------------
+multiplexers_4.v
+    A missing else that leads to a latch inference
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multiplexers/multiplexers_4.v
+
+----------------------------------------------------------------------
+multiplexers_4.vhd
+    A missing else that leads to a latch inference.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/multiplexers/multiplexers_4.vhd
+
+----------------------------------------------------------------------

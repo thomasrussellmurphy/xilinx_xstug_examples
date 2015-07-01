@@ -1,0 +1,13 @@
+----------------------------------------------------------------------
+dynamic_shift_registers_1.v
+    32-bit dynamic shift register.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/dynamic_shift_registers/dynamic_shift_registers_1.v
+
+----------------------------------------------------------------------
+dynamic_shift_registers_1.vhd
+    32-bit dynamic shift register.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/dynamic_shift_registers/dynamic_shift_registers_1.vhd
+
+----------------------------------------------------------------------

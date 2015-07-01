@@ -1,0 +1,17 @@
+----------------------------------------------------------------------
+nonlrm_bufferout.vhd
+    Supported non-LRM port association between
+        a formal buffer
+        an actual out
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: VHDL_Language_Support/nonlrm_supported/nonlrm_bufferout.vhd
+
+----------------------------------------------------------------------
+nonlrm_outbuffer.vhd
+    Supported non-LRM port association between
+        a formal out
+        an actual buffer
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: VHDL_Language_Support/nonlrm_supported/nonlrm_outbuffer.vhd
+
+----------------------------------------------------------------------

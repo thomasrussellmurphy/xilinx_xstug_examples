@@ -1,0 +1,13 @@
+----------------------------------------------------------------------
+function_package_1.vhd
+    Declaration of a function in a package
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: VHDL_Language_Support/functions_procedures/function_package_1.vhd
+
+----------------------------------------------------------------------
+procedure_package_1.vhd
+    Declaration of a procedure in a package
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: VHDL_Language_Support/functions_procedures/procedure_package_1.vhd
+
+----------------------------------------------------------------------

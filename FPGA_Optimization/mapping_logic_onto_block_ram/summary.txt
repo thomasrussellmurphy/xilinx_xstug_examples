@@ -1,0 +1,29 @@
+----------------------------------------------------------------------
+bram_map_1.v
+    The following example places 8-bit adders with 
+    constant in a single block RAM primitive
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: FPGA_Optimization/mapping_logic_onto_block_ram/bram_map_1.v
+
+----------------------------------------------------------------------
+bram_map_1.vhd
+    The following example places 8-bit adders with 
+    constant in a single block RAM primitive
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: FPGA_Optimization/mapping_logic_onto_block_ram/bram_map_1.vhd
+
+----------------------------------------------------------------------
+bram_map_2.v
+    In the following example, an asynchronous reset is used and
+    so, the logic is not mapped onto block RAM
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: FPGA_Optimization/mapping_logic_onto_block_ram/bram_map_2.v
+
+----------------------------------------------------------------------
+bram_map_2.vhd
+    In the following example, an asynchronous reset is used and
+    so, the logic is not mapped onto block RAM
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: FPGA_Optimization/mapping_logic_onto_block_ram/bram_map_2.vhd
+
+----------------------------------------------------------------------

@@ -1,0 +1,13 @@
+----------------------------------------------------------------------
+extension_signed_1.v
+    Signed extension in an assignment
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Verilog_Language_Support/assignment_extensions/extension_signed_1.v
+
+----------------------------------------------------------------------
+extension_unsigned_1.v
+    Unsigned extension in an assignment
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Verilog_Language_Support/assignment_extensions/extension_unsigned_1.v
+
+----------------------------------------------------------------------

@@ -1,0 +1,109 @@
+----------------------------------------------------------------------
+counters_1.v
+    4-bit unsigned up counter with an asynchronous reset.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/counters/counters_1.v
+
+----------------------------------------------------------------------
+counters_1.vhd
+    4-bit unsigned up counter with an asynchronous reset.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/counters/counters_1.vhd
+
+----------------------------------------------------------------------
+counters_11.v
+    4-bit unsigned up counter with a synchronous reset.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/counters/counters_11.v
+
+----------------------------------------------------------------------
+counters_2.v
+    4-bit unsigned down counter with a synchronous set.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/counters/counters_2.v
+
+----------------------------------------------------------------------
+counters_2.vhd
+    4-bit unsigned down counter with a synchronous set.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/counters/counters_2.vhd
+
+----------------------------------------------------------------------
+counters_3.v
+    4-bit Unsigned Up Counter with Asynchronous Load from Primary Input
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/counters/counters_3.v
+
+----------------------------------------------------------------------
+counters_3.vhd
+    4-bit Unsigned Up Counter with Asynchronous Load from Primary Input
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/counters/counters_3.vhd
+
+----------------------------------------------------------------------
+counters_31.v
+    4-bit unsigned down counter with a synchronous load.
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/counters/counters_31.v
+
+----------------------------------------------------------------------
+counters_4.v
+    4-bit Unsigned Up Counter with Synchronous Load with a Constant
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/counters/counters_4.v
+
+----------------------------------------------------------------------
+counters_4.vhd
+    4-bit Unsigned Up Counter with Synchronous Load with a Constant
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/counters/counters_4.vhd
+
+----------------------------------------------------------------------
+counters_5.v
+    4-bit Unsigned Up Counter with Asynchronous Reset and Clock Enable
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/counters/counters_5.v
+
+----------------------------------------------------------------------
+counters_5.vhd
+    4-bit Unsigned Up Counter with Asynchronous Reset and Clock Enable
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/counters/counters_5.vhd
+
+----------------------------------------------------------------------
+counters_6.v
+    4-bit Unsigned Up/Down counter with Asynchronous Reset
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/counters/counters_6.v
+
+----------------------------------------------------------------------
+counters_6.vhd
+    4-bit Unsigned Up/Down counter with Asynchronous Reset
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/counters/counters_6.vhd
+
+----------------------------------------------------------------------
+counters_7.v
+    4-bit Signed Up Counter with Asynchronous Reset
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/counters/counters_7.v
+
+----------------------------------------------------------------------
+counters_7.vhd
+    4-bit Signed Up Counter with Asynchronous Reset
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/counters/counters_7.vhd
+
+----------------------------------------------------------------------
+counters_8.v
+    4-bit Signed Up Counter with Asynchronous Reset and Modulo Maximum
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/counters/counters_8.v
+
+----------------------------------------------------------------------
+counters_8.vhd
+    4-bit Signed Up Counter with Asynchronous Reset and Modulo Maximum
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/counters/counters_8.vhd
+
+----------------------------------------------------------------------

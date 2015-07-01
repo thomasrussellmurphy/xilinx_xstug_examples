@@ -1,0 +1,15 @@
+----------------------------------------------------------------------
+blockingmix1.v
+    Mixing of blocking and non-blocking assignments to the same signal
+    Not rejected, but should be avoided
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Verilog_Language_Support/rejected/blockingmix1.v
+
+----------------------------------------------------------------------
+blockingmix2.v
+    Mixing of blocking and non-blocking assignments for different bits of a bus
+    Not rejected, but should be avoided
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Verilog_Language_Support/rejected/blockingmix2.v
+
+----------------------------------------------------------------------

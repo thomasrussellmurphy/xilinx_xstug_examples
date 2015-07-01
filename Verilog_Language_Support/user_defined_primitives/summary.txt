@@ -1,0 +1,22 @@
+----------------------------------------------------------------------
+udp_combinatorial_1.v
+    Description and instantiation of a user defined primitive
+      Combinatorial function
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Verilog_Language_Support/user_defined_primitives/udp_combinatorial_1.v
+
+----------------------------------------------------------------------
+udp_sequential_1.v
+    Description and instantiation of a user defined primitive
+      Sequential function
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Verilog_Language_Support/user_defined_primitives/udp_sequential_1.v
+
+----------------------------------------------------------------------
+udp_sequential_2.v
+    Description and instantiation of a user defined primitive
+      Sequential function
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: Verilog_Language_Support/user_defined_primitives/udp_sequential_2.v
+
+----------------------------------------------------------------------

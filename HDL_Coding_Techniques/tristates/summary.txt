@@ -1,0 +1,33 @@
+----------------------------------------------------------------------
+tristates_1.v
+    Tristate Description Using Combinatorial Always Block
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/tristates/tristates_1.v
+
+----------------------------------------------------------------------
+tristates_1.vhd
+    Tristate Description Using Combinatorial Process
+    Implemented with an OBUFT (IO buffer)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/tristates/tristates_1.vhd
+
+----------------------------------------------------------------------
+tristates_2.v
+    Tristate Description Using Concurrent Assignment
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/tristates/tristates_2.v
+
+----------------------------------------------------------------------
+tristates_2.vhd
+    Tristate Description Using Concurrent Assignment
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/tristates/tristates_2.vhd
+
+----------------------------------------------------------------------
+tristates_3.vhd
+    Tristate Description Using Combinatorial Process
+    Implemented with an OBUF (internal buffer)
+    Download: ftp://ftp.xilinx.com/pub/documentation/misc/xstug_examples.zip
+    File: HDL_Coding_Techniques/tristates/tristates_3.vhd
+
+----------------------------------------------------------------------
