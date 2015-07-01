@@ -1,0 +1,49 @@
+# Trying to make a gitignore for Xilinx ISE starting from the
+# demo project for the Basys2
+
+# Whole directories that are ISE generated
+_ngo
+_xmsgs
+iseconfig
+xst
+*log
+
+# All of the other generated files
+*_guide*
+*_ISE_Backup
+*_map.*
+*_pad.*
+*_xdb
+*.bgn
+*.bit
+*.bld
+*.drc
+*.gise
+*.html
+*.ise  # Old version of project file, using *.isex now
+*.lso
+*.map
+*.mrp
+*.ncd
+*.ngc
+*.ngd
+*.ngm
+*.ngr
+*.pad
+*.par
+*.pcf
+*.prj
+*.ptwx
+*.restore
+*.stx
+*.syr
+*.twr
+*.twx
+*.unroutes
+*.ut
+*.xml
+*.xpi
+*.xreport
+*.xrpt
+*.xst
+*.xwbt
